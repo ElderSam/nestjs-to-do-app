@@ -1,5 +1,6 @@
 # To do App in Nest.js
 
+TIPS:
 Create a Nest.js project:
 ``$ nest new my-nest-project``
 
@@ -8,6 +9,11 @@ Generate Module
 
 Generate Controller
 ``$ nest g controller my-controller-name``
+
+Generate Provider
+``$ nest g provider <NAME>/shared/<NAME>.service``
+
+Example: ``$ nest g provider tasks/shared/task.service``
 
 -----------
 
