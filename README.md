@@ -25,6 +25,10 @@ Delete:
 ## Tutorial
 https://www.youtube.com/watch?v=wuK1MvSpcAc&list=PLryJIoSncQyNzHHbHMPQkjPRP3Kv0ICnq&index=3
 
+## MongoDB
+https://docs.mongodb.com/manual/crud/
+https://docs.mongodb.com/manual/reference/sql-comparison/
+
 ## CLI TIPS:
 Create a Nest.js project:
 ``$ nest new my-nest-project``
