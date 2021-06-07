@@ -6,6 +6,9 @@ Create a Nest.js project:
 Generate Module
 ``$ nest g module my-module-name``
 
+Generate Controller
+``$ nest g controller my-controller-name``
+
 -----------
 
 <p align="center">
