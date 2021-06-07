@@ -1,5 +1,7 @@
 # To do App in Nest.js
 
+Tutorial: https://www.youtube.com/watch?v=wuK1MvSpcAc&list=PLryJIoSncQyNzHHbHMPQkjPRP3Kv0ICnq&index=3
+
 TIPS:
 Create a Nest.js project:
 ``$ nest new my-nest-project``
