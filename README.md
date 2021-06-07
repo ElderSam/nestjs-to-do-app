@@ -1,8 +1,31 @@
 # To do App in Nest.js
 
-Tutorial: https://www.youtube.com/watch?v=wuK1MvSpcAc&list=PLryJIoSncQyNzHHbHMPQkjPRP3Kv0ICnq&index=3
+## Tasks API
+base_url = http://localhost:3000
+NOTE: Import API documentation into Insomnia or Postman at ``/API_documentation`` folder
 
-TIPS:
+### Routes:
+Get All
+``base_url/tasks/``(GET)
+
+Get By Id:
+``base_url/tasks/:id`` (GET)
+
+Create:
+``base_url/tasks/``(POST)
+
+Update:
+``base_url/tasks/:id`` (PUT)
+
+Delete:
+``base_url/tasks/:id`` (DELETE)
+
+----------------------------
+
+## Tutorial
+https://www.youtube.com/watch?v=wuK1MvSpcAc&list=PLryJIoSncQyNzHHbHMPQkjPRP3Kv0ICnq&index=3
+
+## CLI TIPS:
 Create a Nest.js project:
 ``$ nest new my-nest-project``
 
