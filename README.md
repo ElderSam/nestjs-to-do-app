@@ -11,9 +11,12 @@ Generate Controller
 ``$ nest g controller my-controller-name``
 
 Generate Provider
-``$ nest g provider <NAME>/shared/<NAME>.service``
+``$ nest g provider <MODULE>/shared/<NAME>.service``
 
 Example: ``$ nest g provider tasks/shared/task.service``
+
+Generate Class
+``$ nest g class <MODULE>/shared/<CLASS_NAME>``
 
 -----------
 
