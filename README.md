@@ -1,3 +1,13 @@
+# To do App in Nest.js
+
+Create a Nest.js project:
+``$ nest new my-nest-project``
+
+Generate Module
+``$ nest g module my-module-name``
+
+-----------
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
